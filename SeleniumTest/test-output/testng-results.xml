@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="46935" started-at="2017-05-14T22:00:07Z" finished-at="2017-05-14T22:00:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="46935" started-at="2017-05-14T22:00:07Z" finished-at="2017-05-14T22:00:54Z">
+      <class name="week2.Homework.com.DuplicateLeads">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:week2.Homework.com.DuplicateLeads@1686d1f]" name="launchBrowser" duration-ms="46904" started-at="2017-05-15T03:30:07Z" finished-at="2017-05-15T03:30:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+      </class> <!-- week2.Homework.com.DuplicateLeads -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
